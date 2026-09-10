@@ -1,0 +1,245 @@
+{
+  "main": {
+    "id": "9edaffa6a9122ed3",
+    "type": "split",
+    "children": [
+      {
+        "id": "1746943ce0bbcf87",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7d2ad05da529d662",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lecture Notes/090226.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "090226"
+            }
+          },
+          {
+            "id": "a710113e0f37cbde",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Documents/NRF_FINALApproved_2011028.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "NRF_FINALApproved_2011028"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1148f05d67bdd835",
+    "type": "split",
+    "children": [
+      {
+        "id": "b82844399e2848e7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "872b35199e667d52",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "19f0791890044f53",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "aec23938fe481b37",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1e7ba56a07915223",
+    "type": "split",
+    "children": [
+      {
+        "id": "1d2fdab710d0ddd3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6980b2f95ff488e7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "NUEN-657.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "abbfc6593eaa18d6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "NUEN-657.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "45f39059e3bfcda1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "6c328ebb4bc34762",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "07612d0aebd2aa42",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "NUEN-657.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "a710113e0f37cbde",
+  "lastOpenFiles": [
+    "Lecture Notes/090926.md",
+    "non md files/Pasted image 20260909130148.png",
+    "non md files/Pasted image 20260909130053.png",
+    "Lecture Notes/090226.md",
+    "FCC_TRISO_HALEU_burn 1.out",
+    "FCC_TRISO_HALEU_burn.out",
+    "Concepts/FRMAC manual.md",
+    "Concepts/EPA400.md",
+    "Concepts/relocation.md",
+    "Concepts/emergency limits.md",
+    "Concepts/NRP.md",
+    "~$Lecture 2 Emerg Resp and NRF_class.pptx",
+    "Concepts/NRF.md",
+    "Concepts/FRERP.md",
+    "Concepts/FIOP.md",
+    "Concepts/Environmental Response, Compensation and Liability Act.md",
+    "Documents/EPA400.pdf",
+    "Documents/Unconfirmed 470436.crdownload",
+    "Concepts/ESF.md",
+    "Concepts/ESF 14.md",
+    "Concepts/NIMS.md",
+    "Concepts/NCP.md",
+    "Concepts/Incident Commander.md",
+    "Concepts/ICS.md",
+    "Concepts/HPSD-5.md",
+    "Concepts/FRP.md",
+    "Concepts/Field Teams.md",
+    "Concepts/evacuation.md",
+    "Concepts/FEMA.md",
+    "Concepts/Deposition amount.md",
+    "Concepts/Air concentration.md",
+    "Concepts/Weather Systems.md",
+    "Documents/IS0100c_SM.pdf",
+    "non md files/Pasted image 20260902123802.png",
+    "Documents/NRF_FINALApproved_2011028.pdf",
+    "Documents/Unconfirmed 975186.crdownload",
+    "Documents/IS0200c SM.pdf",
+    "Documents"
+  ]
+}
