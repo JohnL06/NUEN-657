@@ -1,5 +1,5 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "-tag:#Lecture  ",
   "showTags": false,
   "showAttachments": false,
@@ -62,6 +62,27 @@
         "a": 1,
         "rgb": 16743110
       }
+    },
+    {
+      "query": "tag:#asset",
+      "color": {
+        "a": 1,
+        "rgb": 45311
+      }
+    },
+    {
+      "query": "tag:#center",
+      "color": {
+        "a": 1,
+        "rgb": 12664790
+      }
+    },
+    {
+      "query": "tag:#incident",
+      "color": {
+        "a": 1,
+        "rgb": 9127187
+      }
     }
   ],
   "collapse-display": true,
@@ -69,11 +90,11 @@
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": false,
+  "collapse-forces": true,
   "centerStrength": 0.518713248970312,
   "repelStrength": 10.4662789511274,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.7482894865873373,
+  "scale": 0.5606573174994148,
   "close": false
 }
