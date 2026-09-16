@@ -1,4 +1,4 @@
-#concept 
+#concept #policy
 National Response Framework — 2008 (revised 2013, 2019). Part of the National Strategy for Homeland Security, built on [[NIMS]] and [[ICS]].
 
 - Sets guiding principles for how all levels of domestic response prepare for and deliver a unified national response to disasters and emergencies (from acts of God to terrorist activities), with annexes for specific event types (biological, chemical, nuclear/radiological, etc.)

@@ -1,4 +1,4 @@
-#concept 
+#concept #protectiveaction
 The longer-term protective action of moving people who have already been affected by contamination away from an area, as opposed to moving them out ahead of/during an acute exposure.
 
 - Distinguished from [[evacuation]]: evacuation is short-term movement before or during passage of a plume; relocation applies afterward, based on measured or projected ground contamination, and can last weeks to years depending on decontamination progress

@@ -1,4 +1,4 @@
-#concept 
+#concept #policy
 Homeland Security Presidential Directive 5 (2003) — directed the development of the [[NIMS]].
 
 - Once adopted, NIMS became the emergency management doctrine coordinating preparedness and incident management across public and private sectors

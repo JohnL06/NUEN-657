@@ -1,4 +1,4 @@
-#concept 
+#concept #policy
 Federal Response Plan — authorized in 1988, when FEMA's Director was directed to prepare it.
 
 - Established a system of federal assistance to state and local governments

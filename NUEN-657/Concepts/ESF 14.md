@@ -1,4 +1,4 @@
-#concept 
+#concept #policy
 Per lecture: two annexes formerly located elsewhere in the [[NRF]] structure have been removed and are now consolidated under ESF #14.
 
 - Sits within the broader [[ESF]] Annex structure of the NRF

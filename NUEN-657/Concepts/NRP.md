@@ -1,4 +1,4 @@
-#concept 
+#concept #policy
 National Response Plan (2004).
 
 - Provided the structure and mechanisms for national-level policy on incident management

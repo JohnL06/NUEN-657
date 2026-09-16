@@ -1,4 +1,4 @@
-#concept 
+#concept #role
 The individual responsible for on-scene incident activities, including developing incident objectives and ordering and releasing resources. Has overall authority and responsibility for conducting incident operations. (IS-100.c glossary)
 
 - The only ICS position that is always staffed — on a small incident, one person may accomplish all management functions

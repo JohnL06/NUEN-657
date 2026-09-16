@@ -6,7 +6,64 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": true,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "tag:#policy",
+      "color": {
+        "a": 1,
+        "rgb": 6000111
+      }
+    },
+    {
+      "query": "tag:#guidance",
+      "color": {
+        "a": 1,
+        "rgb": 2213044
+      }
+    },
+    {
+      "query": "tag:#agency",
+      "color": {
+        "a": 1,
+        "rgb": 10841855
+      }
+    },
+    {
+      "query": "tag:#role",
+      "color": {
+        "a": 1,
+        "rgb": 15898954
+      }
+    },
+    {
+      "query": "tag:#system",
+      "color": {
+        "a": 1,
+        "rgb": 5424154
+      }
+    },
+    {
+      "query": "tag:#protectiveaction",
+      "color": {
+        "a": 1,
+        "rgb": 16731471
+      }
+    },
+    {
+      "query": "tag:#data",
+      "color": {
+        "a": 1,
+        "rgb": 16762173
+      }
+    },
+    {
+      "query": "tag:#datasource",
+      "color": {
+        "a": 1,
+        "rgb": 16743110
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
@@ -17,6 +74,6 @@
   "repelStrength": 10.4662789511274,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.7264604437323636,
+  "scale": 0.7482894865873373,
   "close": false
 }

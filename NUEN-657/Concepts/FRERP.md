@@ -1,4 +1,4 @@
-#concept 
+#concept #policy
 Federal Radiological Emergency Response Plan — signed 1996.
 
 - Interagency document: the NRC and FEMA jointly developed the government response for peacetime radiological emergencies within the US

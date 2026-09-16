@@ -1,4 +1,4 @@
-#concept 
+#concept #protectiveaction
 The protective action of remaining indoors — ideally in an interior or below-grade room — rather than evacuating through a moving plume.
 
 - Often the preferred short-term action when a plume is moving quickly, when the release is expected to be brief, or when evacuation routes would themselves increase exposure

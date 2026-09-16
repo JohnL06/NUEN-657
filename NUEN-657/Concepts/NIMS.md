@@ -1,4 +1,4 @@
-#concept 
+#concept #system
 National Incident Management System — "a systematic, proactive approach to guide all levels of government, NGOs, and the private sector to work together to prevent, protect against, mitigate, respond to, and recover from the effects of incidents," providing a consistent foundation from daily incidents up to a coordinated federal response. (IS-100.c glossary)
 
 - Directed into being by [[HPSD-5]] (2003); adopted throughout all federal agencies

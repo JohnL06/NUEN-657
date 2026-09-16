@@ -1,4 +1,4 @@
-#concept 
+#concept #policy
 Emergency Support Function — "the grouping of governmental and certain private sector capabilities into an organizational structure to provide capabilities and services most likely needed to manage domestic incidents." (IS-100.c glossary)
 
 - ESF Annexes are one of the main components of the [[NRF]] document (alongside the Core Document and Support Annexes)

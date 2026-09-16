@@ -1,4 +1,4 @@
-#concept 
+#concept #system
 Incident Command System — "a standardized approach to the command, control, and coordination of on-scene incident management, providing a common hierarchy within which personnel from multiple organizations can be effective... the combination of procedures, personnel, facilities, equipment, and communications operating within a common organizational structure." (IS-100.c glossary)
 
 - Standardized, on-scene, all-hazards approach; scales up or down to match incident complexity while respecting agency/jurisdictional authority

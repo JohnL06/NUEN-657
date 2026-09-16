@@ -25,16 +25,32 @@
             "id": "a710113e0f37cbde",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Documents/NRF_FINALApproved_2011028.pdf"
+                "file": "Lecture Notes/090926.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "NRF_FINALApproved_2011028"
+              "icon": "lucide-file",
+              "title": "090926"
+            }
+          },
+          {
+            "id": "7043a79463b0c96a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lecture Notes/091426.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "091426"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -201,12 +217,24 @@
       "bases:Create new base": false
     }
   },
-  "active": "a710113e0f37cbde",
+  "active": "7043a79463b0c96a",
   "lastOpenFiles": [
     "Lecture Notes/090926.md",
+    "Lecture Notes/090226.md",
+    "Lecture Notes/091426.md",
+    "Concepts/FRP.md",
+    "Concepts/NPG.md",
+    "Concepts/NRC.md",
+    "Concepts/RASCAL.md",
+    "Concepts/PRDs.md",
+    "Concepts/Primary Authority.md",
+    "Concepts/LFA.md",
+    "Concepts/NRIA.md",
+    "Pasted image 20260914132549.png",
+    "Pasted image 20260914132541.png",
+    "Documents/NRF_FINALApproved_2011028.pdf",
     "non md files/Pasted image 20260909130148.png",
     "non md files/Pasted image 20260909130053.png",
-    "Lecture Notes/090226.md",
     "FCC_TRISO_HALEU_burn 1.out",
     "FCC_TRISO_HALEU_burn.out",
     "Concepts/FRMAC manual.md",
@@ -227,17 +255,8 @@
     "Concepts/NCP.md",
     "Concepts/Incident Commander.md",
     "Concepts/ICS.md",
-    "Concepts/HPSD-5.md",
-    "Concepts/FRP.md",
-    "Concepts/Field Teams.md",
-    "Concepts/evacuation.md",
-    "Concepts/FEMA.md",
-    "Concepts/Deposition amount.md",
-    "Concepts/Air concentration.md",
-    "Concepts/Weather Systems.md",
     "Documents/IS0100c_SM.pdf",
     "non md files/Pasted image 20260902123802.png",
-    "Documents/NRF_FINALApproved_2011028.pdf",
     "Documents/Unconfirmed 975186.crdownload",
     "Documents/IS0200c SM.pdf",
     "Documents"

@@ -1,4 +1,4 @@
-#concept 
+#concept #protectiveaction
 "The organized, phased, and supervised withdrawal, dispersal, or removal of people from dangerous or potentially dangerous areas, and their reception and care in safe areas." (IS-100.c glossary)
 
 - One of the three protective actions available to a decision maker during a radiological release, alongside [[relocation]] and [[shelter in place]]
