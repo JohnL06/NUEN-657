@@ -1,8 +1,7 @@
 #concept #asset
-[[DOE]]'s national atmospheric release modeling capability — the federal plume prediction resource for a radiological release.
+See [[NARAC]].
 
-- Produces the atmospheric transport and dispersion predictions that drive projected [[Air concentration]] and [[Deposition amount]]
-- One of the [[NEST]] programs
-- Written in lecture as "National Atmospheric Release Capability"; the DOE asset is the National Atmospheric Release Advisory Center (NARAC) at Lawrence Livermore
+- "National Atmospheric Release Capability" as written in the 09/16 lecture; the DOE asset is the National Atmospheric Release Advisory Center, covered in the 09/21 lecture
+- This note exists so the earlier [[NARC]] link still resolves — the content lives in [[NARAC]]
 
-Related: [[NEST]], [[DOE]], [[Weather Systems]], [[Air concentration]], [[RASCAL]]
+Related: [[NARAC]]

@@ -4,5 +4,6 @@ Consequence Management Response Team — [[DOE]]'s deployable team for radiologi
 - Scales up from the smaller, faster [[RAP]] response
 - Performs monitoring, sampling, and dose assessment to support protective action recommendations
 - One of the [[NEST]] programs
+- Supported from the rear by the [[CMHT]], which advises the field and activates further assets
 
-Related: [[NEST]], [[FRMAC]], [[RAP]], [[DOE]], [[Field Teams]]
+Related: [[NEST]], [[FRMAC]], [[RAP]], [[CMHT]], [[DOE]], [[Field Teams]]

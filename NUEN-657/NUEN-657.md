@@ -1,4 +1,4 @@
-
+#Lecture
 NUEN657: Emergency Response
 
 Dates:
