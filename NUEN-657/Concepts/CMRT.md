@@ -5,5 +5,6 @@ Consequence Management Response Team — [[DOE]]'s deployable team for radiologi
 - Performs monitoring, sampling, and dose assessment to support protective action recommendations
 - One of the [[NEST]] programs
 - Supported from the rear by the [[CMHT]], which advises the field and activates further assets
+- The full field-support element of an initial FRMAC response: 50-100 people with additional technical and leadership resources, following the [[CMHT]] and [[CMAC]]
 
-Related: [[NEST]], [[FRMAC]], [[RAP]], [[CMHT]], [[DOE]], [[Field Teams]]
+Related: [[NEST]], [[FRMAC]], [[RAP]], [[CMHT]], [[DOE]], [[Field Teams]], [[CMAC]]

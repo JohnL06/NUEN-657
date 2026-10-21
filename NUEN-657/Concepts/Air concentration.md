@@ -5,4 +5,6 @@ The amount of radioactive material suspended in a given volume of air at a locat
 - Modeled via atmospheric transport simulations (running ~15–20 minutes after an event in the US, with first results in 30–60 minutes) and confirmed with field air sampling (LV/HV pumps and filters)
 - Distinct from [[Deposition amount]], which is what settles out onto surfaces rather than what remains airborne
 
-Related: [[Source term]], [[Weather Systems]], [[Field Teams]]
+- After the plume passes, [[Resuspension]] keeps contributing; estimated from [[Mass loading]] or the [[Resuspension factor]]
+
+Related: [[Source term]], [[Weather Systems]], [[Field Teams]], [[Resuspension factor]]

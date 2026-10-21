@@ -1,11 +1,11 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "-Tag:#Lecture  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "tag:#policy",
@@ -83,11 +83,32 @@
         "a": 1,
         "rgb": 9127187
       }
+    },
+    {
+      "query": "tag:#transport",
+      "color": {
+        "a": 1,
+        "rgb": 10541329
+      }
+    },
+    {
+      "query": "tag:#soil",
+      "color": {
+        "a": 1,
+        "rgb": 8867072
+      }
+    },
+    {
+      "query": "tag:#nuclide",
+      "color": {
+        "a": 1,
+        "rgb": 15413142
+      }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": 0,
+  "textFadeMultiplier": -1.5,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": true,
@@ -95,6 +116,6 @@
   "repelStrength": 10.4662789511274,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.6139670036096083,
-  "close": true
+  "scale": 0.3104867613883316,
+  "close": false
 }
