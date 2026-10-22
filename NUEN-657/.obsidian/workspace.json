@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture Notes/101226.md",
+                "file": "Lecture Notes/101426.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "101226"
+              "title": "101426"
             }
           }
         ],
@@ -247,6 +247,19 @@
   },
   "active": "42c3af92a9df5738",
   "lastOpenFiles": [
+    "MIDTERM Quick Reference.md",
+    "Concepts/NCRP 165.md",
+    "Concepts/Response Phases.md",
+    "Concepts/DIL.md",
+    "Concepts/DRL.md",
+    "Concepts/PAD.md",
+    "Concepts/PAG.md",
+    "Lecture Notes/101926.md",
+    "Documents/101926 EPA400 transcript.pdf",
+    "Documents/Lecture 9 EPA 400.pptx",
+    "Documents/PAG_reference.pdf",
+    "Documents/EPA_PAG_Manual_2017.pdf",
+    "Lecture Notes/101226.md",
     "Lecture Notes/101426.md",
     "Pasted image 20261014132449.png",
     "non md files/Pasted image 20261014132127.png",
@@ -261,7 +274,6 @@
     "Lecture Notes/100526.md",
     "Lecture Notes/100726.md",
     "Concepts/Soil texture.md",
-    "Lecture Notes/101226.md",
     "Concepts/Terrestrial Dispersion.md",
     "Concepts/RASCAL.md",
     "Concepts/Concentration Ratio.md",
@@ -275,22 +287,11 @@
     "Concepts/CMAC.md",
     "Concepts/A-TEAM.md",
     "Concepts/USDA.md",
-    "Concepts/NNSA.md",
-    "Concepts/Potassium Iodide.md",
-    "Concepts/Effective half-life.md",
-    "Concepts/I-131.md",
-    "Concepts/Cs-137.md",
-    "Concepts/Sr-90.md",
-    "Concepts/Observed Ratio.md",
     "Documents/IS0200c SM.pdf",
     "Documents/NRF_FINALApproved_2011028.pdf",
     "Documents/IS0100c_SM.pdf",
     "Documents/EPA400.pdf",
     "Lecture Notes/Simple Syllabus.pdf",
-    "FCC_TRISO_HALEU_burn 1.out",
-    "FCC_TRISO_HALEU_burn.out",
-    "~$Lecture 2 Emerg Resp and NRF_class.pptx",
-    "Documents/Unconfirmed 470436.crdownload",
-    "Documents/Unconfirmed 975186.crdownload"
+    "FCC_TRISO_HALEU_burn 1.out"
   ]
 }
